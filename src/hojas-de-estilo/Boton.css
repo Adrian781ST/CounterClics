@@ -1,0 +1,27 @@
+button {
+    width: 250px;
+    height: 80px;
+    font-size: 35px;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    color: rgb(85, 255, 7) ;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-image: url('../imagenes/flag.png');
+    background-size: 99%;
+    /*background-size:0cqmax;*/
+  }
+
+  .boton-clic {
+    background-color: #3334;
+  }
+  
+  .boton-reiniciar {
+    background-color: #3334;
+  }
+  
+  
