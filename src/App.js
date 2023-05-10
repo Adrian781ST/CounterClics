@@ -1,7 +1,6 @@
 import './App.css';
 import Boton from './componentes/Boton';
 import Contador from './componentes/Contador';
-import freeCodeCampLogo from './imagenes/freecodecamp-logo.jpg';
 import { useState } from 'react';
 
 function App() {
